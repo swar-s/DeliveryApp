@@ -14,4 +14,4 @@ A React Native application that displays a list of products with search and filt
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/swar-s/DeliveryApp
